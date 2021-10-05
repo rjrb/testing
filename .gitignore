@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!si.txt
+!carpeta1/
+!contenedor/
+
+# ignore everything in the "wp-content" directory, except:
+# "plugins" and "themes" directory
+contenedor/*
+!contenedor/carpeta2/
+!contenedor/carpeta3/
